@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lov:home|Door43 (lov)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lov|d43-lov repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lov/archive/master.zip|d43-lov.zip]]
+
+**Recent Changes**
+{{changes>ns = lov}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lov|Ethnologue data]]
+
